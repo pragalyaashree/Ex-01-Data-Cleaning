@@ -55,3 +55,4 @@ df.isnull().sum()
 ## NON NULL AFTER
 
 # RESULT
+Thus,the given data is read,clensed and the cleansed data is saved into the file.
